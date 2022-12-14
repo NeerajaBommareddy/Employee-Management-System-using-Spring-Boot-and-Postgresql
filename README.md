@@ -1,6 +1,6 @@
 # SpringBoot-in-Intellij-Idea-Postgres
 
-This is a simple Spring Boot application implemented in IntelliJ idea and Pg admin 4.
+This is a simple Spring Boot application implemented in IntelliJ idea and pgAdmin 4.
 This project uses a sample employee database with 5 tables {employees, jobs, departments, dependents, locations}!
 
 Below is the schema diagram of the database
